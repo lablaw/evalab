@@ -1,0 +1,9 @@
+https://drive.google.com/uc?export=download&id=1VDpudj_IpHnmLIKhpnsHw7Bdh6c9lv-J
+https://drive.google.com/uc?export=download&id=1F3HLMTzoJ9DwyPUXGLJVWlWwNtWv56fB
+以下说明注意看
+使用方法：选则节点-打开代理→节点能用→再更新订阅链接-节点不能用会报错导致更新不出来节点
+
+第一链接为订阅链接v2ray，第二为clash,小火箭任选一，安卓Ax也可以用
+
+关注我的频道一直有免费高速节点使用
+youtube-阿伟科技2021.11.08
